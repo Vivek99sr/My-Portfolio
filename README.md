@@ -8,7 +8,7 @@ This is my personal portfolio built using HTML, CSS, and React. It showcases my 
 ## Technologies Used
 - HTML
 - CSS
-- React
+- Basic JavaScript (Implicit via @keyframes for Animation
 4. Installation Instructions
 ## Installation
 
